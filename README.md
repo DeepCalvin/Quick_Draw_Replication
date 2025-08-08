@@ -1,4 +1,4 @@
-# QuickDraw CNN Game 🎨🤖
+# QuickDraw CNN Game
 
 A Quick! Draw! replication using CNN that classifies 12 images from your drawings!
 
